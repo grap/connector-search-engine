@@ -19,6 +19,7 @@
         'base_jsonify',
     ],
     'data': [
+        'views/ir_exports.xml',
         'views/se_backend_algolia.xml',
         'views/se_menu.xml',
         'security/ir.model.access.csv',
